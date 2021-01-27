@@ -11,7 +11,7 @@ console.log("cuarta manera de concatenar (,)",altura,edad);
 console.log("quinta manera de concatenar (`${}`)");
 console.log(`${nombre} ${altura}`);
 
-//operador de decremento
+//operador de decremento 
 let x = 10;
 console.log(`decremento (--) ${x--} valor inicial ${x}`);
 
