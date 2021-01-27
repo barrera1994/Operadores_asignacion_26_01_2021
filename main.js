@@ -9,7 +9,7 @@ let con=(nombre.concat(altura));
 console.log("tercera manera de concatenar (concat)"+con);
 console.log("cuarta manera de concatenar (,)",altura,edad);
 console.log("quinta manera de concatenar (`${}`)");
-console.log(`${nombre} ${altura}`);
+console.log(`${nombre} ${altura}`); 
 
 //operador de decremento 
 let x = 10;
